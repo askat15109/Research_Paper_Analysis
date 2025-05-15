@@ -52,3 +52,6 @@ cd research-paper-assessment
 2. Set Up a Virtual Environment (Optional but Recommended)
 python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
+
+3. Install Dependencies
+pip install -r requirements.txt
